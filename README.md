@@ -2,6 +2,8 @@
 
 A Go client for the [Bachs](https://bachs.io) payments API.
 
+**Status:** actively maintained. v0.1, so the API may still change before 1.0. Issues and PRs welcome.
+
 > **Community project.** This is not built or supported by Bachs. It follows
 > the behaviour of the official [Node.js SDK](https://github.com/bachsdev/bachs-node)
 > and the [API docs](https://docs.bachs.io) as closely as I can.
